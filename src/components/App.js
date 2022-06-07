@@ -1,4 +1,4 @@
-import contacts from "./AddCard";
+import contacts from "../AddCard";
 import Card from "./Card";
 
 function App() {
