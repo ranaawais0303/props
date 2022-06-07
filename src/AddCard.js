@@ -1,9 +1,8 @@
-import React from "react";
-
 import "./AddCard.css";
 
 const contacts = [
   {
+    id: 1,
     name: "rana awais",
     src: "https://i.ytimg.com/vi/pEjpuVuXTpA/maxresdefault.jpg",
 
@@ -11,6 +10,7 @@ const contacts = [
     email: "ranaawais@gmail.com",
   },
   {
+    id: 2,
     name: "Sarmad",
     src: "https://i.ytimg.com/vi/iwQMk1-zEuU/maxresdefault.jpg",
 
